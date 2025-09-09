@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BussOrMark</string>
+    <string name="name_hint">Nombre de Usuario</string>
+    <string name="submit">Ingresar</string>
+    <string name="hello">¡Hola!</string>
+    <string name="name">Nombre</string>
+    <string name="height">Estatura (M)</string>
+    <string name="weight">Peso (Kg)</string>
+    <string name="imc_calculator">Calculadora IMC</string>
+    <string name="modify">Modificar</string>
+    <string name="save">Guardar</string>
+    <string name="write_name">Porfavor ingrese su nombre</string>
+    <string name="register">registro</string>
+    <string name="history">Historico</string>
+    <string name="back">Regresar</string>
+    <string name="clear">Borrar</string>
+    <string name="nueva_etiqueta">etiqueta</string>
+    <string name="user">Usuario:</string>
+</resources>

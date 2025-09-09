@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nvidia_background">#171717</color>
+    <color name="nvidia_surface">#2A2A2A</color>
+    <color name="nvidia_accent">#76B900</color>
+    <color name="nvidia_text_primary">#FFFFFF</color>
+    <color name="nvidia_text_secondary">#CCCCCC</color>
+    <color name="nvidia_button_text">#171717</color>
+</resources>

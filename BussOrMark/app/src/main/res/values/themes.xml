@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.NVIDIA" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/nvidia_accent</item>
+        <item name="colorPrimaryVariant">@color/nvidia_accent</item>
+        <item name="colorOnPrimary">@color/nvidia_button_text</item>
+
+        <item name="colorSecondary">@color/nvidia_accent</item>
+        <item name="colorSecondaryVariant">@color/nvidia_accent</item>
+        <item name="colorOnSecondary">@color/nvidia_button_text</item>
+
+        <item name="android:colorBackground">@color/nvidia_background</item>
+        <item name="colorSurface">@color/nvidia_surface</item>
+        <item name="colorOnSurface">@color/nvidia_text_primary</item>
+
+        <item name="android:textColorPrimary">@color/nvidia_text_primary</item>
+        <item name="android:textColorSecondary">@color/nvidia_text_secondary</item>
+        <item name="android:statusBarColor">?attr/android:colorBackground</item>
+
+        <item name="editTextStyle">@style/NVIDIA.EditText</item>
+        <item name="buttonStyle">@style/NVIDIA.Button</item>
+    </style>
+
+    <style name="NVIDIA.EditText" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/nvidia_text_primary</item>
+        <item name="android:textColorHint">@color/nvidia_text_secondary</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:backgroundTint">@color/nvidia_accent</item>
+    </style>
+
+    <style name="NVIDIA.Button" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/nvidia_accent</item>
+        <item name="android:textColor">@color/nvidia_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

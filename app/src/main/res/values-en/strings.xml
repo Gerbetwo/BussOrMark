@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BussOrMark</string>
+    <string name="name_hint">Name of User</string>
+    <string name="submit">Submit</string>
+    <string name="hello">¡Hello!</string>
+    <string name="name">Name</string>
+    <string name="height">Height (M)</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="imc_calculator">Calculator IMC</string>
+    <string name="modify">Modify</string>
+    <string name="save">Save</string>
+    <string name="write_name">Please write your name</string>
+    <string name="register">Register</string>
+    <string name="history">Historic</string>
+    <string name="back">Back</string>
+    <string name="clear">Clear</string>
+    <string name="nueva_etiqueta">Tag</string>
+    <string name="user">User:</string>
+</resources>

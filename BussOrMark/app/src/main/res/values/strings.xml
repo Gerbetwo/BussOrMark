@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BussOrMark</string>
+    <string name="name_hint">name_hint</string>
+    <string name="submit">submit</string>
+    <string name="hola">¡Hola!</string>
+    <string name="nombre">Nombre</string>
+    <string name="estatura">Estatura (M)</string>
+    <string name="peso">Peso (Kg)</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="modify">modify</string>
+    <string name="save">save</string>
+    <string name="porfavor_ingrese_su_nombre">Porfavor Ingrese su Nombre</string>
+    <string name="registro">registro</string>
+    <string name="historico">Historico</string>
+</resources>
